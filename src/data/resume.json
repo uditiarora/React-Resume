@@ -1,5 +1,15 @@
 {
-    "basics": {
+  "one-liner" : [
+    {
+      "lines" : "hey, I am here."
+    },
+    {
+      "line2" : "hey"
+    }
+  ],
+
+    "basics": [
+       {
       "name": "Your first and last name",
       "label": "",
       "picture": "",
@@ -8,21 +18,9 @@
       "degree": "",
       "website": "Your website URL",
       "summary": "A one-sentence to one-paragraph overview text. Do not include any line-breaks.",
-      "location": {
-        "address": "Your street address or mailing address",
-        "postalCode": "Your postal code (ZIP in the U.S.)",
-        "city": "Your city",
-        "countryCode": "Your country (e.g. USA)",
-        "region": "Your region (state in the U.S.)"
-      },
-      "profiles": [
-        {
-          "network": "A social media or other profile that you would like to include (e.g. LinkedIn, Twitter)",
-          "username": "Your username on this network",
-          "url": "A URL to your user profile page"
-        }
-      ]
-    },
+      "location": "your_location"
+      }
+    ],
     "work": [
       {
         "company": "Your employer name",
@@ -30,10 +28,8 @@
         "website": "The URL for the employer's website",
         "startDate": "Your start date, in YYYY-MM-DD format",
         "endDate": "Your end date, in YYY-MM-DD format (leave blank for a current position)",
-        "summary": "A one-sentence to one-paragraph summary of this employer or position",
-        "highlights": [
-          "Bullet-point list items that you would like to include along with (or instead of) a summary paragraph."
-        ]
+        "summary": "A one-sentence to one-paragraph summary of this employer or position"
+        
       }
     ],
     "volunteer": [
@@ -43,10 +39,8 @@
         "website": "The URL for the employer's website",
         "startDate": "Your start date, in YYYY-MM-DD format",
         "endDate": "Your end date, in YYY-MM-DD format (leave blank for a current position)",
-        "summary": "A one-sentence to one-paragraph summary of this employer or position",
-        "highlights": [
-          "Bullet-point list items that you would like to include along with (or instead of) a summary paragraph."
-        ]
+        "summary": "A one-sentence to one-paragraph summary of this employer or position"
+        
       }
     ],
     "education": [
@@ -57,9 +51,7 @@
         "startDate": "Your start date, in YYYY-MM-DD format",
         "endDate": "Your completion date, in YYYY-MM-DD format",
         "gpa": "",
-        "courses": [
-          ""
-        ]
+        "courses" : ""
       }
     ],
     "awards": [
@@ -83,9 +75,7 @@
       {
         "name": "A category of job skills (e.g. 'Programming Languages')",
         "level": "",
-        "keywords": [
-          "Keywords under this category (e.g. 'Java', 'C++', etc)"
-        ]
+        "keywords":""
       }
     ],
     "languages": [
@@ -97,9 +87,7 @@
     "interests": [
       {
         "name": "A category of interests (e.g. 'Sports')",
-        "keywords": [
-          "Keywords under this category (e.g. 'Cricket', 'Football', 'Golf')"
-        ]
+        "keywords": ""
       }
     ]
   }
