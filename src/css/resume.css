@@ -31,5 +31,32 @@ h5 {
 b{
     text-transform: uppercase;
 }
+a.resume {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px 0px;
+    background-color: #1a1a1d;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+  
+  .right a.resume:hover {
+    background-color: #1a1a1d;
+  }
+  
+  .right a.resume .resume-link {
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    background-color: #2A54F5;
+    background-image: -webkit-linear-gradient(45deg,#00BFFF 0%,#950740 100%);
+    background-image: linear-gradient(45deg,#00BFFF 0%,#950740 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
 
 
