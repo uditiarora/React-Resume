@@ -1,10 +1,7 @@
 .right {
-    width: 60%;
     height: 100%;
     min-height: 100vh;
-    overflow-Y: scroll;
     vertical-align: top;
-    float: right;
     padding-top: 30px;  
     padding-left: 60px;  
     padding-right: 60px;

@@ -11,9 +11,9 @@ function App() {
   const githubURL="";
   const linkedinURL="";
   return (
-    
-        <div>
-          <Panel 
+      <div className="container-fluid">
+        <div className="row">
+          <div className="col-md-4"><Panel 
             name = {name}
             subtext = {subtext}
             jobStatus = {jobStatus}
@@ -21,9 +21,10 @@ function App() {
             instaURL = {instaURL}
             githubURL = {githubURL}
             linkedinURL = {linkedinURL}
-          />
-          <Resume />
+          /></div>
+          <div className="col-md-8"><Resume /></div>
         </div>
+      </div>
       
   );
 }
