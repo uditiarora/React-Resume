@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Resume/static/css/main.c04120b2.chunk.css",
+    "main.js": "/React-Resume/static/js/main.566642b9.chunk.js",
+    "main.js.map": "/React-Resume/static/js/main.566642b9.chunk.js.map",
+    "runtime-main.js": "/React-Resume/static/js/runtime-main.61cf2b8e.js",
+    "runtime-main.js.map": "/React-Resume/static/js/runtime-main.61cf2b8e.js.map",
+    "static/js/2.e0945b67.chunk.js": "/React-Resume/static/js/2.e0945b67.chunk.js",
+    "static/js/2.e0945b67.chunk.js.map": "/React-Resume/static/js/2.e0945b67.chunk.js.map",
+    "index.html": "/React-Resume/index.html",
+    "precache-manifest.025b6ede3b014052fa9532cd8c4daae2.js": "/React-Resume/precache-manifest.025b6ede3b014052fa9532cd8c4daae2.js",
+    "service-worker.js": "/React-Resume/service-worker.js",
+    "static/css/main.c04120b2.chunk.css.map": "/React-Resume/static/css/main.c04120b2.chunk.css.map",
+    "static/js/2.e0945b67.chunk.js.LICENSE.txt": "/React-Resume/static/js/2.e0945b67.chunk.js.LICENSE.txt",
+    "static/media/panel.css": "/React-Resume/static/media/me.90bbcb29.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61cf2b8e.js",
+    "static/js/2.e0945b67.chunk.js",
+    "static/css/main.c04120b2.chunk.css",
+    "static/js/main.566642b9.chunk.js"
+  ]
+}
