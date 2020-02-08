@@ -13,7 +13,7 @@ function App() {
   return (
       <div className="container-fluid">
         <div className="row">
-          <div className="col-md-4"><Panel 
+          <div className="col-md-5"><Panel 
             name = {name}
             subtext = {subtext}
             jobStatus = {jobStatus}
@@ -22,7 +22,7 @@ function App() {
             githubURL = {githubURL}
             linkedinURL = {linkedinURL}
           /></div>
-          <div className="col-md-8"><Resume /></div>
+          <div className="col-md-7"><Resume /></div>
         </div>
       </div>
       
